@@ -1,2 +1,1 @@
-# vqmod-opencart-debug
-[VQMOD] DEBUG
+# [VQMOD] DEBUG
